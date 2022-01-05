@@ -24,13 +24,13 @@ body {
 
 .second {
     width: 100px;
-    background-color: red;
+    background-color: blue;
     float: left;
 }
 
 .third_left {
     width: 100px;
-    background-color: red;
+    background-color: green;
     float: left;
 }
 
@@ -40,7 +40,7 @@ body {
 
 .third {
     width: 100px;
-    background-color: red;
+    background-color: green;
     float: left;
 }
 
@@ -52,16 +52,38 @@ body {
 .fourth_left {
     height: 200px;
     width: 100px;
-    background-color: red;
+    background-color: brown;
     float: left;
 }
 
 .fourth_right {
     height: 100px;
     width: 100px;
-    background-color: red;
+    background-color: aqua;
 }
 
 .fourth_right_side {
+    float: right;
+}
+
+.fifth {
+    width: 200px;
+    float: right;
+}
+
+.fifth_left {
+    height: 200px;
+    width: 100px;
+    background-color: yellow;
+    float: left;
+}
+
+.fifth_right {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+}
+
+.fifth_right_side {
     float: right;
 }
