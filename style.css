@@ -17,3 +17,13 @@ body {
     background-color: red;
     float: right;
 }
+
+.second_right {
+    float: right;
+}
+
+.second {
+    width: 100px;
+    background-color: red;
+    float: left;
+}
