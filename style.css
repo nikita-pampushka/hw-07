@@ -43,3 +43,25 @@ body {
     background-color: red;
     float: left;
 }
+
+.fourth {
+    width: 200px;
+    margin: 0 auto;
+}
+
+.fourth_left {
+    height: 200px;
+    width: 100px;
+    background-color: red;
+    float: left;
+}
+
+.fourth_right {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.fourth_right_side {
+    float: right;
+}
