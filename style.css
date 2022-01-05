@@ -27,3 +27,19 @@ body {
     background-color: red;
     float: left;
 }
+
+.third_left {
+    width: 100px;
+    background-color: red;
+    float: left;
+}
+
+.third_right {
+    float: right;
+}
+
+.third {
+    width: 100px;
+    background-color: red;
+    float: left;
+}
